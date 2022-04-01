@@ -12,9 +12,6 @@
 		<loc>http://forty-eight.pl/legendarnaskrzynia.html</loc>
 	</url>
 	<url>
-		<loc>http://forty-eight.pl/vip.html</loc>
-	</url>
-	<url>
 		<loc>http://forty-eight.pl/svip.html</loc>
 	</url>
 	<url>
@@ -25,5 +22,8 @@
 	</url>
 	<url>
 		<loc>http://forty-eight.pl/regulamin.html</loc>
+	</url>
+	<url>
+		<loc>http://forty-eight.pl/vip.html</loc>
 	</url>
 </urlset>
